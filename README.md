@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/preview.png" alt="Example of the Catppuccin theme for Obsidian"/>
+  <img src="./assets/preview.png" alt="Preview"/>
 </p>
 
 ## Overview  
@@ -45,9 +45,9 @@ This is achieved by modifying `[HKEY_CURRENT_USER\Control Panel\Colors]` in the 
 
 Navigate to your Wine prefix and run the `regedit` command as follows:
 
-    ```sh
-    regedit /path/to/Mocha.reg
-    ```
+```
+regedit /path/to/Mocha.reg
+```
 
 ## License
 
