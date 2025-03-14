@@ -22,22 +22,22 @@ This is achieved by modifying `[HKEY_CURRENT_USER\Control Panel\Colors]` in the 
 ## Previews  
 
 <details id="latte">  
-<summary><a href="#latte">🌻 Latte</a></summary>  
+<summary>🌻 Latte</summary>  
 <img src="./assets/latte_preview.png" alt="Preview of Latte theme"/>  
 </details>  
 
 <details id="frappe">  
-<summary><a href="#frappe">🪴 Frappé</a></summary>  
+<summary>🪴 Frappé</summary>  
 <img src="./assets/frappe_preview.png" alt="Preview of Frappé theme"/>  
 </details>  
 
 <details id="macchiato">  
-<summary><a href="#macchiato">🌺 Macchiato</a></summary>  
+<summary>🌺 Macchiato</summary>  
 <img src="./assets/macchiato_preview.png" alt="Preview of Macchiato theme"/>  
 </details>  
 
 <details id="mocha">  
-<summary><a href="#mocha">🌿 Mocha</a></summary>  
+<summary>🌿 Mocha</summary>  
 <img src="./assets/mocha_preview.png" alt="Preview of Mocha theme"/>  
 </details>
 
